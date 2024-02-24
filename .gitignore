@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+.env
+cypress.env.json
+coverage/
